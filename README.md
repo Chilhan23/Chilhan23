@@ -7,7 +7,7 @@ I am very interested in **Digital Forensics and Incident Response (DFIR)**.
 ---
 
 ## 💻 OS:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft-windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557CF2?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ## 🔒 Security Platforms & Tools:
