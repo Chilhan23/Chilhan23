@@ -53,10 +53,8 @@
 
 - **Digital Forensics & Incident Response (DFIR)**
 - **Binary Exploitation** (Buffer overflow, ROP chains, heap exploitation)
-- **Web Security & Penetration Testing**
-- **CTF Challenges** (Forensics, Pwn, Web, Reverse Engineering)
-- **Backend Development** (API, REST, microservices)
-- **Reverse Engineering**
+- **CTF Challenges** 
+- **Backend Development** 
 
 ---
 
