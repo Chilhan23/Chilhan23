@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Rayhan Ramadhan 👋</h1>
-<h3 align="center">Call me <b>Rehan</b> —Cyber Security Enthusiast & Backend Developer </h3>
-
+<h3 align="center">Call me <b>Rehan</b> — Cyber Security Enthusiast & Backend Developer</h3>
 
 <br>
 
@@ -20,26 +19,27 @@
 
 <h3 align="center">🛡️ Security Focus</h3>
 
+<p align="center"><b>💥 Binary Exploitation</b></p>
 <p align="center">
-  <b>Binary Exploitation</b><br>
-  <img src="https://img.shields.io/badge/GDB-A81D33?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/pwndbg-212121?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GDB-A81D33?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/pwndbg-212121?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/pwntools-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
+<p align="center"><b>🔍 Reverse Engineering</b></p>
 <p align="center">
-  <b>Reverse Engineering</b><br>
-  <img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge&logo=nsa&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA_Pro-6E5494?style=for-the-badge&logo=hexeditor&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
+<p align="center"><b>🧩 Digital Forensics & Incident Response</b></p>
 <p align="center">
-  <b>Digital Forensics & Incident Response</b><br>
   <img src="https://img.shields.io/badge/Volatility-FFD700?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Autopsy-5D3FD3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autopsy-5D3FD3?style=for-the-badge&logo=sleuthkit&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4d4d4d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nmap-4d4d4d?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
 <br>
@@ -48,8 +48,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  <img src="https://img.shields.io/badge/picoCTF-1f1f1f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CTFtime-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/picoCTF-1f1f1f?style=for-the-badge&logo=ctf&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=flag&logoColor=white" />
 </p>
 
 <br>
