@@ -8,19 +8,12 @@
 <br>
 
 ```js
-const rehan = {
+const chilhan = {
   pronouns: "he" | "him",
-  location: "Banda Aceh, Indonesia 🇮🇩",
   role: ["Backend Developer", "Security Researcher", "CTF Player"],
   languages: ["PHP", "JavaScript", "TypeScript", "Python"],
   stack: ["Laravel", "Next.js", "MySQL", "PostgreSQL"],
-  security: {
-    binaryExploitation: ["GDB", "pwndbg", "pwntools", "Metasploit"],
-    reverseEngineering: ["Ghidra", "IDA Pro", "Burp Suite"],
-    forensics: ["Volatility", "Autopsy", "Wireshark", "Nmap"]
-  },
-  currentFocus: "DFIR & Binary Exploitation",
-  funFact: "I debug exploits faster than I debug my own code 🐛"
+  currentFocus: "DFIR & Binary Exploitation"
 }
 ```
 
@@ -42,27 +35,10 @@ const rehan = {
 
 <h3 align="center">🛡️ Security Focus</h3>
 
-<p align="center"><b>💥 Binary Exploitation</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/GDB-A81D33?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/pwndbg-212121?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/pwntools-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-</p>
-
-<p align="center"><b>🔍 Reverse Engineering</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge&logo=nsa&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA_Pro-6E5494?style=for-the-badge&logo=hexeditor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-</p>
-
-<p align="center"><b>🧩 Digital Forensics & Incident Response</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Volatility-FFD700?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Autopsy-5D3FD3?style=for-the-badge&logo=sleuthkit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4d4d4d?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Binary_Exploitation-212121?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-CC0000?style=for-the-badge&logo=nsa&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital_Forensics_%26_IR-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 <br>
