@@ -1,6 +1,29 @@
 <h1 align="center">Hi, I'm Muhammad Rayhan Ramadhan 👋</h1>
 <h3 align="center">Call me <b>Rehan</b> — Cyber Security Enthusiast & Backend Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40rehan%3A~%23+whoami;Security+Researcher+%7C+Backend+Developer;Breaking+things+to+understand+them;CTF+player+%40+TryHackMe+%2F+HackTheBox" alt="Typing SVG" />
+</p>
+
+<br>
+
+```js
+const rehan = {
+  pronouns: "he" | "him",
+  location: "Banda Aceh, Indonesia 🇮🇩",
+  role: ["Backend Developer", "Security Researcher", "CTF Player"],
+  languages: ["PHP", "JavaScript", "TypeScript", "Python"],
+  stack: ["Laravel", "Next.js", "MySQL", "PostgreSQL"],
+  security: {
+    binaryExploitation: ["GDB", "pwndbg", "pwntools", "Metasploit"],
+    reverseEngineering: ["Ghidra", "IDA Pro", "Burp Suite"],
+    forensics: ["Volatility", "Autopsy", "Wireshark", "Nmap"]
+  },
+  currentFocus: "DFIR & Binary Exploitation",
+  funFact: "I debug exploits faster than I debug my own code 🐛"
+}
+```
+
 <br>
 
 <h3 align="center">⚙️ Tech Stack</h3>
@@ -59,5 +82,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Chilhan23&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chilhan23&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chilhan23&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<br>
 
 <p align="center"><i>Let's connect and collaborate! 🚀</i></p>
