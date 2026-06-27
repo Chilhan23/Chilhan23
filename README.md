@@ -6,7 +6,7 @@
 
 # chilhan
 
-<sub>backend developer / security enthusiast / Banda Aceh, Indonesia</sub>
+<sub>backend developer / cyber security enthusiast /</sub>
 
 </div>
 
