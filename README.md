@@ -1,15 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Chilhan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Security%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
-
-<br>
-
-### About Me
-
-Backend developer 
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Chilhan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
 ### Technologies
-
 <table>
 <tr>
 <td valign="top">
