@@ -1,35 +1,39 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=root%40chilhan%3A~%23+whoami;backend+developer;cyber+security+enthusiast" alt="Typing SVG" />
-
-<br>
-
-# chilhan
-
-<sub>backend developer / cyber security enthusiast /</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Chilhan&fontSize=70&fontColor=fff5e1&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%26%20Security%20Enthusiast&descAlignY=58&descSize=18" />
 
 </div>
 
 <br>
 
-```bash
-$ cat profile.txt
+<table align="center" border="0">
+<tr>
+<td width="50%" valign="top">
 
-building things that work, breaking things to see why they didn't.
-```
+### Profile
 
-<br>
+A backend developer from Banda Aceh, Indonesia, who spends equal time writing code and trying to break it on purpose.
 
-<div align="center">
+Interested in the quieter corners of software — the parts that fail in interesting ways.
+
+</td>
+<td width="50%" valign="top">
 
 ### Stack
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+`PHP` · `Laravel` · `JavaScript`
+`TypeScript` · `Next.js` · `Python`
+`MySQL` · `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="80%"/>
 
 </div>
 
@@ -37,12 +41,8 @@ building things that work, breaking things to see why they didn't.
 
 <div align="center">
 
-### Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chilhan23&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chilhan23&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chilhan23&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chilhan23&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chilhan23&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000" height="165"/>
 
 </div>
 
@@ -50,8 +50,6 @@ building things that work, breaking things to see why they didn't.
 
 <div align="center">
 
-```
-> connection established
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 
 </div>
