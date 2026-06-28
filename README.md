@@ -1,55 +1,32 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Chilhan&fontSize=70&fontColor=fff5e1&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%26%20Security%20Enthusiast&descAlignY=58&descSize=18" />
-
-</div>
-
 <br>
 
-<table align="center" border="0">
-<tr>
-<td width="50%" valign="top">
+<h1 align="left">Chilhan</h1>
+<p align="left">Backend Developer &nbsp;·&nbsp; Security Enthusiast &nbsp;·&nbsp; Banda Aceh, Indonesia</p>
 
-### Profile
+<br><br>
 
-A backend developer from Banda Aceh, Indonesia, who spends equal time writing code and trying to break it on purpose.
+I build backend systems and occasionally take them apart to see how they break.
+Most of what I do sits at the intersection of writing software and trying to find the flaws in it.
 
-Interested in the quieter corners of software — the parts that fail in interesting ways.
-
-</td>
-<td width="50%" valign="top">
+<br><br>
 
 ### Stack
 
-`PHP` · `Laravel` · `JavaScript`
-`TypeScript` · `Next.js` · `Python`
-`MySQL` · `PostgreSQL`
+PHP &nbsp;/&nbsp; Laravel &nbsp;/&nbsp; JavaScript &nbsp;/&nbsp; TypeScript &nbsp;/&nbsp; Next.js &nbsp;/&nbsp; Python &nbsp;/&nbsp; MySQL &nbsp;/&nbsp; PostgreSQL
 
-</td>
-</tr>
-</table>
+<br><br>
 
-<br>
+### Currently
 
-<div align="center">
+Exploring digital forensics and backend architecture in more depth.
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="80%"/>
+<br><br>
 
-</div>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Chilhan23&show_icons=true&hide_border=true&theme=default&bg_color=ffffff00&title_color=111111&icon_color=111111&text_color=555555" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chilhan23&layout=compact&hide_border=true&theme=default&bg_color=ffffff00&title_color=111111&text_color=555555" height="165"/>
+</p>
 
-<br>
+<br><br>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chilhan23&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chilhan23&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-
-</div>
+<p align="left"><sub>Banda Aceh, Indonesia</sub></p>
