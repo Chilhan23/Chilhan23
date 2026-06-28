@@ -4,22 +4,60 @@
 
 ### About Me
 
-Backend developer .
+Backend developer 
 
 <br>
 
-### Tech Stack
+### Technologies
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" title="Laravel"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
-</p>
+<table>
+<tr>
+<td valign="top">
+
+**Back-end**
+<fieldset style="border-radius: 12px; padding: 16px 24px;">
+<legend>Back-end</legend>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" height="36" title="PHP"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="36" height="36" title="Laravel"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" title="Python"/>
+</fieldset>
+
+</td>
+<td valign="top">
+
+**Front-end**
+<fieldset style="border-radius: 12px; padding: 16px 24px;">
+<legend>Front-end</legend>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" title="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" title="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" title="Next.js"/>
+</fieldset>
+
+</td>
+<td valign="top">
+
+**Database**
+<fieldset style="border-radius: 12px; padding: 16px 24px;">
+<legend>Database</legend>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" title="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" title="PostgreSQL"/>
+</fieldset>
+
+</td>
+<td valign="top">
+
+**Outros**
+<fieldset style="border-radius: 12px; padding: 16px 24px;">
+<legend>Outros</legend>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="36" height="36" title="Arch Linux"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" title="Linux"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" title="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" title="MySQL"/>
+</fieldset>
+
+</td>
+</tr>
+</table>
 
 <br>
 
