@@ -36,24 +36,3 @@
 </td>
 </tr>
 </table>
-
-<br>
-
-### GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Chilhan23&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chilhan23&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<br>
-
-### Connect
-
-<p>
-<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/Chilhan23"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" width="100%"/>
