@@ -51,14 +51,8 @@
 
 ---
 
-### GitHub Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chilhan23&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chilhan23&layout=compact&hide_border=true&theme=tokyonight" width="45%" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="60%" alt="coding animation"/>
 </p>
 
 ---
