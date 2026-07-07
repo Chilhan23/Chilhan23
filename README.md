@@ -1,10 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There,%20I'm%20Chilhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chilhan23&style=flat-square&color=2a5298" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Chilhan23?style=flat-square&color=2a5298&label=Followers" alt="followers"/>
-</p>
-
 ---
 
 ### About Me
