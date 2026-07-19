@@ -1,55 +1,32 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There,%20I'm%20Chilhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+# Hi, I'm Chilhan 👋
+
+Backend Developer | Cyber Security Enthusiast
 
 ---
 
-### About Me
-
-- Currently building backend systems with **PHP / Laravel**
-- Exploring **Cyber Security** — from web app security to network fundamentals
-- Learning **Python** & sharpening my **TypeScript / Next.js** skills
-
----
-
-### Tech Stack
-
-<table align="center">
-<tr>
-<td align="center" valign="top" width="33%">
+## Tech Stack
 
 **Backend**
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" title="PHP"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" title="Laravel"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-
-</td>
-<td align="center" valign="top" width="33%">
+![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) 
+![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg) 
+![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)
 
 **Frontend**
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
-
-</td>
-<td align="center" valign="top" width="33%">
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) 
+![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)
 
 **Tools & Others**
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
-
-</td>
-</tr>
-</table>
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) 
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) 
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="60%" alt="coding animation"/>
-</p>
+## Pinned Projects
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
+[![Web_Chat_SocketIo](https://github-readme-stats.vercel.app/api/pin/?username=Chilhan23&repo=Web_Chat_SocketIo&theme=default)](https://github.com/Chilhan23/Web_Chat_SocketIo)
+[![Book_API](https://github-readme-stats.vercel.app/api/pin/?username=Chilhan23&repo=Book_API&theme=default)](https://github.com/Chilhan23/Book_API)
+[![golang-blog-api](https://github-readme-stats.vercel.app/api/pin/?username=Chilhan23&repo=golang-blog-api&theme=default)](https://github.com/Chilhan23/golang-blog-api)
