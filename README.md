@@ -25,12 +25,6 @@ I like **Backend Programming** and **Cyber Security**, and I'm currently learnin
 
 ---
 
-<p align="center">
-<a href="https://open.spotify.com/track/1r1XNVp418Oarz1WVQ2yWk">
-<img src="https://img.shields.io/badge/Now%20Playing-Payphone%20%E2%80%93%20Maroon%205-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing"/>
-</a>
-</p>
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
