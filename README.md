@@ -15,6 +15,9 @@ Outside of code, I love watching saqahayng, Marvel, and anime.
 
 ### 🛠️ Tech Stack
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1200&color=2A5298&center=true&vCenter=true&width=500&lines=PHP+%E2%80%A2+TypeScript+%E2%80%A2+Go+%E2%80%A2+Next.js+%E2%80%A2+Linux" alt="Typing SVG" />
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" title="PHP"/>&nbsp;&nbsp;
@@ -22,6 +25,12 @@ Outside of code, I love watching saqahayng, Marvel, and anime.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45" title="Golang"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" title="Next.js"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
+</p>
+
+<p align="center">
+<a href="https://open.spotify.com/track/1r1XNVp418Oarz1WVQ2yWk">
+<img src="https://img.shields.io/badge/Now%20Playing-Payphone%20%E2%80%93%20Maroon%205-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing"/>
+</a>
 </p>
 
 ---
