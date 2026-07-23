@@ -15,9 +15,6 @@ Outside of code, I love watching saqahayng, Marvel, and anime.
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1200&color=2A5298&center=true&vCenter=true&width=500&lines=PHP+%E2%80%A2+TypeScript+%E2%80%A2+Go+%E2%80%A2+Next.js+%E2%80%A2+Linux" alt="Typing SVG" />
-</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" title="PHP"/>&nbsp;&nbsp;
