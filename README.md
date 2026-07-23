@@ -1,15 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There,%20I'm%20Chilhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
----
-
-### 🤡 A Word From Production
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=It+is+not+a+bug%2C+it+is+an+undocumented+feature;Works+on+my+machine;99+little+bugs+in+the+code;Take+one+down%2C+patch+it+around;127+little+bugs+in+the+code" alt="Typing SVG" />
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
+<img src="https://media.giphy.com/media/Rlwz4m0aHgXH13jyrE/giphy-downsized.gif" width="450"/>
 </p>
 
 <p align="center">
@@ -18,19 +10,10 @@
 
 ---
 
-### 📊 Most Used Languages
+### About Me
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chilhan23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chilhan23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Chilhan23&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+Passionate about **Backend Programming** and **Cyber Security**.
+Outside of code, I love watching saqahayng, Marvel, and anime.
 
 ---
 
@@ -66,6 +49,15 @@
 </td>
 </tr>
 </table>
+
+---
+
+### 📊 Stats
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Chilhan23&show_icons=true&custom_title=GitHub+Statistics&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="190" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chilhan23&layout=compact&theme=tokyonight&hide_border=true"/></a>
+</p>
 
 ---
 
