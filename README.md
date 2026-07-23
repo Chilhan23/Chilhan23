@@ -1,3 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There,%20I'm%20Chilhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
+---
+
+### About Me
+
+I like **Backend Programming** and **Cyber Security**, and I'm currently learning **DevOps**.
 
 <p align="center">
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="450"/>
@@ -5,24 +12,24 @@
 
 ---
 
-### About Me
+### 🛠 Skill
 
-Passionate about **Backend Programming** and **Cyber Security**.
-Outside of code, I love watching saqahayng, Marvel, and anime.
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-4d4d4d?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-FFD700?style=for-the-badge&logo=python&logoColor=black)
 
 ---
 
-### 🛠️ Tech Stack
-
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" title="PHP"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" title="TypeScript"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45" title="Golang"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" title="Next.js"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
+<a href="https://open.spotify.com/track/1r1XNVp418Oarz1WVQ2yWk">
+<img src="https://img.shields.io/badge/Now%20Playing-Payphone%20%E2%80%93%20Maroon%205-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing"/>
+</a>
 </p>
-
 
 ---
 
