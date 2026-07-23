@@ -5,8 +5,7 @@
 ### About Me
 
 I like **Backend Programming** and **Cyber Security**, and I'm currently learning **DevOps**.
-
-Outside of that, I enjoy learning math — there's something satisfying about solving number problems, it's just fun. I'm also into anime, my favorites being **Dragon Ball**, **Attack on Titan**, and **Naruto**. For games, I'm usually playing football games like **PES**.
+Outside of that, I enjoy learning math — there's something satisfying about solving number problems, it's just fun.
 
 <p align="center">
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="450"/>
