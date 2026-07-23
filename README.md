@@ -2,7 +2,36 @@
 
 ---
 
-### Tech Stack
+### 🤡 A Word From Production
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=It's+not+a+bug%2C+it's+an+undocumented+feature;Works+on+my+machine+%F0%9F%A4%B7;99+little+bugs+in+the+code...;Take+one+down%2C+patch+it+around...;127+little+bugs+in+the+code" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/Hi.gif" width="30"/>
+<b> Warning: This developer runs on caffeine and Stack Overflow tabs.</b>
+</p>
+
+---
+
+### 📊 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-KAMU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME-KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=USERNAME-KAMU&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🛠️ Tech Stack
 
 <table align="center">
 <tr>
@@ -36,3 +65,5 @@
 </table>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
