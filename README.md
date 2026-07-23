@@ -1,10 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There,%20I'm%20Chilhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There,%20I'm%20Rayhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 ---
 
 ### About Me
 
 I like **Backend Programming** and **Cyber Security**, and I'm currently learning **DevOps**.
+
+Outside of that, I enjoy learning math — there's something satisfying about solving number problems, it's just fun. I'm also into anime, my favorites being **Dragon Ball**, **Attack on Titan**, and **Naruto**. For games, I'm usually playing football games like **PES**.
 
 <p align="center">
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="450"/>
@@ -24,7 +26,6 @@ I like **Backend Programming** and **Cyber Security**, and I'm currently learnin
 ![Volatility](https://img.shields.io/badge/Volatility-FFD700?style=for-the-badge&logo=python&logoColor=black)
 
 ---
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
