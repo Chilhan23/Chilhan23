@@ -13,15 +13,14 @@ Outside of that, I enjoy learning math — there's something satisfying about so
 
 ---
 
-### 🛠 Skill
+###  Skill
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,ts,go,linux,docker,git&theme=dark" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=3&width=1000" width="100%"/>
 
 ---
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
