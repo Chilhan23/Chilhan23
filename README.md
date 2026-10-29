@@ -13,19 +13,10 @@ Outside of that, I enjoy learning math — there's something satisfying about so
 
 ---
 
-### Skill
+###  Skill
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,python,ts,go,linux,docker,git&theme=dark" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Chilhan23&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chilhan23&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Chilhan23&theme=tokyonight" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=3&width=1000" width="100%"/>
